@@ -104,14 +104,3 @@ taskInput.addEventListener("keyup", (e) => {
     showTodo("all");
   }
 });
-
-
-function newFunc(x){
-  let status = ''
-    if(!x){
-      status = 'You are faild'
-
-    }else{
-      status = 'You are passed'
-    }
-}
